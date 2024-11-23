@@ -1,2 +1,3 @@
 example.txt
 line #2
+I understand it now
